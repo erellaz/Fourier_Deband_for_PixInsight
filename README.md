@@ -16,4 +16,6 @@ The numerical core between `// ==== CORE BEGIN` and `// ==== CORE END` is plain 
 without PixInsight objects; the dialog and file handling are tested against the
 PixInsight classes.
 
+![Project Screenshot](./Menu.webp)
+
 Author: Black Rig (Erellaz). License: MIT
