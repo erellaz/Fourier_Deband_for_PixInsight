@@ -1,4 +1,4 @@
-# FourierDeband for PixInsight
+# Fourier Deband for PixInsight
 
 Removes CMOS row/column banding (and optionally checkerboard and periodic interference
 patterns) by estimating them in the 2-D Fourier spectrum and subtracting the estimate from
